@@ -6,7 +6,7 @@
 /*   By: aeldridg <aeldridg@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/29 14:37:05 by aeldridg          #+#    #+#             */
-/*   Updated: 2021/09/29 15:09:20 by aeldridg         ###   ########.fr       */
+/*   Updated: 2021/10/26 17:07:50 by aeldridg         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,8 +30,6 @@
 # include <errno.h>
 # include <sys/types.h>
 # include <dirent.h>
-# include <readline/readline.h>
-# include <readline/history.h>
 # include <signal.h>
 # include <fcntl.h>
 
